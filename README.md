@@ -1,9 +1,10 @@
 # image_remixer
 
 ## What is this good for?
-The main motivation is to give existing works of art a new spin.
 
-It does not have the proper care in regards to error handling, so be aware
+We all love our classical artworks, the mastery that goes into it is mesmerizing!
+
+But I also love to see different takes and spins of certain works of art, so here is a software solution that at least satisfy my need to discover new things :)
 
 
 ## Requirements:
@@ -36,10 +37,10 @@ Then you need to do the following:
 ![grafik](https://user-images.githubusercontent.com/104129468/164419288-c242a34c-7637-4468-9649-60e399e463f8.png)
 
 ## Potential content updates
-- [ ] improve error handling
-- [ ] improve cli, add a `--help` to inform users
+- [X] improve cli, add a `--help` to inform users
+- [X] improve error handling
 - [ ] support for pngs
-- [ ] support for Linux (and look at Mac)
+- [ ] support for Linux
 - [ ] support for batch remixing
 - [ ] support for more color inputs
 
