@@ -178,7 +178,6 @@ def main():
             sys.exit(1)
 
         apply_palette_by_brightness(source, palette, destiny)
-        print("Saved")
 
     elif len(sys.argv) == 5 and sys.argv[1] == '--color-batch':
         # Batch palette processing
@@ -224,4 +223,5 @@ def main():
     print("finished!")
 
 if __name__ == "__main__":
+
     main()
