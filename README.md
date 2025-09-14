@@ -32,7 +32,7 @@ Then you need to do the following:
 - change the directory to the desired path via cd [optional]
 - and use the commands
 
-![grafik]<img width="1290" height="170" alt="grafik" src="https://github.com/user-attachments/assets/9da053a5-1081-4f6c-8fd9-587054d4f51d" />
+<img width="1290" height="170" alt="grafik" src="https://github.com/user-attachments/assets/9da053a5-1081-4f6c-8fd9-587054d4f51d" />
 
 
 ## Potential content updates
